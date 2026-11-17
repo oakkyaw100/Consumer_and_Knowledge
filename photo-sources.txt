@@ -1,0 +1,10 @@
+Lesson photos downloaded from Unsplash.
+License: https://unsplash.com/license
+
+fresh-market.jpg: https://images.unsplash.com/photo-1542838132-92c53300491e
+healthy-meal.jpg: https://images.unsplash.com/photo-1546069901-ba9599a7e63c
+payment.jpg: https://images.unsplash.com/photo-1556740758-90de374c12ad
+shopping.jpg: https://images.unsplash.com/photo-1556742111-a301076d9d18
+grocery-aisle.jpg: https://images.unsplash.com/photo-1580913428735-bd3c269d6a82
+smartphone.jpg: https://images.unsplash.com/photo-1511707171634-5f897ff02aa9
+junk-food.jpg: https://images.unsplash.com/photo-1513104890138-7c749659a591

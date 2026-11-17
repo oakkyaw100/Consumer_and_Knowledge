@@ -577,7 +577,7 @@
   .logo-frame{ margin-top:14px; background:#fff; border:1px solid var(--line); border-radius:24px; padding:14px 20px 16px; box-shadow:0 16px 40px rgba(11,15,25,.08); position:relative; width:100%; box-sizing:border-box; max-width:780px; margin-left:auto; margin-right:auto; }
   .logo-frame::before{ content:""; position:absolute; left:24px; right:24px; top:0; height:4px; border-radius:0 0 6px 6px; background:linear-gradient(90deg,#0273E0,#3D5AFE,var(--lime),#FFD60A); }
   .logo-frame .lf-title{ text-align:center; font:700 13px 'Poppins',sans-serif; letter-spacing:.18em; text-transform:uppercase; color:var(--gray); margin-bottom:10px; }
-  .logo-row{ display:grid; grid-template-columns:repeat(4,1fr); gap:12px; align-items:stretch; }
+  .logo-row{ display:grid; grid-template-columns:repeat(3,1fr); gap:12px; align-items:stretch; }
   .lg-card{ background:var(--bg); border:1px solid var(--line); border-radius:18px; height:92px; padding:10px; display:grid; place-items:center; transition:.25s; }
   .lg-card:hover{ transform:translateY(-4px); box-shadow:0 12px 26px rgba(11,15,25,.12); border-color:var(--lime-dark); }
   .lg-card{ position:relative; overflow:hidden; }

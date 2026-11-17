@@ -92,7 +92,7 @@
 
   // ---- Video
   const vframe = document.getElementById('vframe');
-  const LOCAL_VIDEO = "videos/consumer-responsibilities.mp4";
+  const LOCAL_VIDEO = "consumer-responsibilities.mp4";
   function addState(v) {
     const b = document.createElement('div'); b.className = 'vstate'; vframe.appendChild(b);
     let t;
